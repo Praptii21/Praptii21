@@ -29,7 +29,7 @@ Passionate about turning ideas into production-ready projects through clean arch
 
 ## 📫 Let's Connect
 
-- LinkedIn: linkedin.com/in/prapti-60a004368/)
+- LinkedIn: linkedin.com/in/prapti-60a004368
 - Email: praptiyush2007@gmail.com 
 
 ---
