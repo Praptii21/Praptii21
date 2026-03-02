@@ -26,13 +26,6 @@ Passionate about turning ideas into production-ready projects through clean arch
 - SQL
 - PostgreSQL
 
-**Tools**
-- Git
-- GitHub
-- Postman
-- VS Code
-
----
 
 ## 📫 Let's Connect
 
