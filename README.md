@@ -55,12 +55,13 @@
 ## 🧠 AI / Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white))
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ## 📫 Let's Connect
 
 <p>
- <img src="https://skillicons.dev/icons?i=linkedin" height="20"/> **Linkedin:** https://www.linkedin.com/in/prapti-60a004368
+  
+  <img src="https://skillicons.dev/icons?i=linkedin" height="20"/> **Linkedin:** linkedin.com/in/prapti-60a004368
 </p>
 
 📧 **Email:** praptiyush2007@gmail.com
