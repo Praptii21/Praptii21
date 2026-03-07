@@ -37,20 +37,11 @@
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -58,7 +49,7 @@
 
 <p>
 <a href="https://linkedin.com/in/prapti-60a004368">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="20"/>
 </a>
 </p>
 
