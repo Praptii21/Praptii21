@@ -1,41 +1,76 @@
-# Hi, I'm Prapti 👋
+<h1 align="center">Hi 👋, I'm Prapti</h1>
+<h3 align="center">CSE Student | Backend Developer | AI-Integrated Systems</h3>
 
-CSE Second-Year Student focused on backend development and building scalable, AI-integrated web applications.  
-Passionate about turning ideas into production-ready projects through clean architecture and efficient backend systems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Python+Developer;Building+AI+Integrated+Systems;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🚀 About Me
+
+💻 CSE Second-Year Student  
+⚙️ Focused on **Backend Development & Scalable Systems**  
+🤖 Interested in **AI-Integrated Web Applications**  
+📚 Currently learning **Data Structures, System Design & AI Tools**  
+🚀 Passionate about **building production-ready projects**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-- Java
-- Python
-- C
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
 
-**Frameworks**
-- Flask
-- FastAPI
-- React
+### Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react" />
+</p>
 
-**Web**
-- HTML
-- CSS
-- JavaScript
+### Web
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Databases**
-- SQL
-- PostgreSQL
-
-
-## 📫 Let's Connect
-
-- LinkedIn: linkedin.com/in/prapti-60a004368
-- Email: praptiyush2007@gmail.com 
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
 
 ---
 
-⭐ Always building. Always learning.
+## 📊 GitHub Stats
 
 <p align="center">
-  <sub>Building real projects. Shipping consistently. 🚀</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p>
+<a href="https://linkedin.com/in/prapti-60a004368">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
+
+📧 **Email:** praptiyush2007@gmail.com
+
+---
+
+⭐ **Always building. Always learning.**
+
+<p align="center">
+<sub>Building real projects. Shipping consistently. 🚀</sub>
 </p>
