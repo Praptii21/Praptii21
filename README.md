@@ -60,9 +60,7 @@
 ## 📫 Let's Connect
 
 <p>
-<img src="https://skillicons.dev/icons?i=linkedin" height="20"/>linkedin: https://www.linkedin.com/in/prapti-60a004368
-
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin" height="20"/> **Linkedin:** https://www.linkedin.com/in/prapti-60a004368
 </p>
 
 📧 **Email:** praptiyush2007@gmail.com
