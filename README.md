@@ -48,7 +48,7 @@
 ## 📫 Let's Connect
 
 <p>
-<a href="https://linkedin.com/in/prapti-60a004368">
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prapti-60a004368)
 <img src="https://skillicons.dev/icons?i=linkedin" height="20"/>
 </a>
 </p>
