@@ -28,10 +28,11 @@
 
 ---
 
-## ⚙️ Frameworks
+## ⚙️ Backend/Frontend
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
@@ -51,11 +52,15 @@
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ---
+## 🧠 AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ## 📫 Let's Connect
 
 <p>
-<img src="https://skillicons.dev/icons?i=linkedin" height="20"/> (https://www.linkedin.com/in/prapti-60a004368)
+<img src="https://skillicons.dev/icons?i=linkedin" height="20"/>linkedin: https://www.linkedin.com/in/prapti-60a004368
 
 </a>
 </p>
