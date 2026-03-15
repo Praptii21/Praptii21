@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prapti</h1>
-<h3 align="center">CSE Student | Backend Developer | AI-Integrated Systems</h3>
+<h3 align="center">CSE Student | Backend Developer | Intelligent Systems & Applied Machine Learning</h3>
 
 
 <p align="center">
@@ -11,9 +11,9 @@
 ## 🚀 About Me
 
 💻 CSE Second-Year Student  
-⚙️ Focused on **Backend Development & Scalable Systems**  
+⚙️ Focused on **Backend Architecture & Production-Grade ML Pipelines** 
 🤖 Interested in **AI-Integrated Web Applications**  
-📚 Currently learning **Data Structures, System Design & AI Tools**  
+📚 Currently learning **Data Structures, System Design, Natural Language Processing (NLP) and Scalable System Design.**  
 🚀 Passionate about **building production-ready projects**
 
 ---
