@@ -12,7 +12,6 @@
 
 💻 CSE Second-Year Student  
 ⚙️ Focused on **Backend Architecture & Production-Grade ML Pipelines**
-
 🤖 Interested in **AI-Integrated Web Applications**  
 📚 Currently learning **Data Structures, System Design, Natural Language Processing (NLP) and Scalable System Design.**  
 🚀 Passionate about **building production-ready projects**
