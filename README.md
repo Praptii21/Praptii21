@@ -59,6 +59,14 @@
 ![NLTK](https://img.shields.io/badge/NLTK-green?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praptii21&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praptii21&layout=compact&theme=dark)
+
+
 ## 📫 Let's Connect
 
 <p>
