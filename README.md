@@ -101,7 +101,7 @@ Feel free to reach out if you'd like to collaborate or discuss potential project
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:praptiyush2007@gmail.com">
+  <a href="mailto:prapti.w212@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
