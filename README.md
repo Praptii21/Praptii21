@@ -27,11 +27,11 @@ I'm a **CSE student** passionate about building scalable backend systems and exp
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praptii21&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praptii21&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praptii21&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praptii21&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ I'm a **CSE student** passionate about building scalable backend systems and exp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praptii21&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Praptii21&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
