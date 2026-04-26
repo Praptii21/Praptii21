@@ -26,20 +26,17 @@ I'm a **CSE student** passionate about building scalable backend systems and exp
 
 ## 📊 GitHub Stats & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praptii21&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Praptii21&show_icons=true&theme=dark&hide_border=true&cache_seconds=60&count_private=true&include_all_commits=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praptii21&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&langs_count=10" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praptii21&layout=compact&theme=dark&hide_border=true&cache_seconds=60&langs_count=10" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praptii21&theme=dark" alt="Contribution Graph" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praptii21&theme=dark" />
 
+<img src="https://streak-stats.demolab.com/?user=Praptii21&theme=dark&hide_border=true&cache_seconds=60" />
+
+<!-- 📈 Contribution Graph -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Praptii21&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praptii21&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -85,6 +82,7 @@ I'm a **CSE student** passionate about building scalable backend systems and exp
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-green?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 ## ☁️ Cloud & DevOps
@@ -119,3 +117,15 @@ Feel free to reach out if you'd like to collaborate or discuss potential project
 <p align="center">
 <sub>Building real projects. Shipping consistently. 🚀</sub>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Praptii21&label=Views&color=0e75b6&style=flat-square" />
+</p>
+
+
+
+
+
+
+
+
