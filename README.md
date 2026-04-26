@@ -118,9 +118,6 @@ Feel free to reach out if you'd like to collaborate or discuss potential project
 <sub>Building real projects. Shipping consistently. 🚀</sub>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praptii21&label=Views&color=0e75b6&style=flat-square" />
-</p>
 
 
 
