@@ -26,9 +26,9 @@ I'm a **CSE student** passionate about building scalable backend systems and exp
 
 ## 📊 GitHub Stats & Contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=Praptii21&show_icons=true&theme=dark&hide_border=true&cache_seconds=60&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Praptii21&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praptii21&layout=compact&theme=dark&hide_border=true&cache_seconds=60&langs_count=10" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Praptii21&layout=compact&theme=dark&hide_border=true&langs_count=10" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praptii21&theme=dark" />
 
