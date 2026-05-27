@@ -32,7 +32,7 @@ I'm a **CSE student** passionate about building scalable backend systems and exp
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praptii21&theme=github_dark" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Praptii21&theme=darkhub" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praptii21&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Praptii21&theme=dark&hide_border=true)
 
